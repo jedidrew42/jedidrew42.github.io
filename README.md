@@ -12,3 +12,6 @@ $ hugo server --themesDir ../..
 ## Good Tutorial on how to set up Hugo Blog on github
 
 https://www.youtube.com/watch?v=oUjk6wpJn7I&t=1s
+
+## Tutorial on how to point a domain name to your github account
+https://www.youtube.com/watch?v=SKXkC4SqtRk
