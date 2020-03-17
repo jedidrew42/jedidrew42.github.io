@@ -8,3 +8,6 @@ $ git clone git@github.com:themefisher/kross-hugo.git
 $ cd kross-hugo/exampleSite/
 
 $ hugo server --themesDir ../..
+
+##Good Tutorial on how to set up Hugo Blog on github
+https://www.youtube.com/watch?v=oUjk6wpJn7I&t=1s
